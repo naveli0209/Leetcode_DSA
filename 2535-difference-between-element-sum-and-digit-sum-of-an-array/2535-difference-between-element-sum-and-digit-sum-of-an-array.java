@@ -7,7 +7,6 @@ class Solution {
             element_sum += i;
             int last_digit = 0;
             while(i>0){
-                last_digit = i%10;
                 digit_sum += i%10;
                 i = i/10;
             }
