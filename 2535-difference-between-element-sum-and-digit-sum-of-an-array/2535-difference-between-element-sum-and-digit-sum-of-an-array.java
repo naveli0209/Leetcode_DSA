@@ -13,11 +13,6 @@ class Solution {
             }
         }
 
-       
-        for(int i = 0; i < nums.length; i++){
-            
-        }
-
         return Math.abs(element_sum-digit_sum) ;
 
     }
