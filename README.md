@@ -8,11 +8,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/naveli0209/Leetcode_DSA/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/naveli0209/Leetcode_DSA/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/naveli0209/Leetcode_DSA/tree/master/0485-max-consecutive-ones) |
+| [2965-find-missing-and-repeated-values](https://github.com/naveli0209/Leetcode_DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Math
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/naveli0209/Leetcode_DSA/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/naveli0209/Leetcode_DSA/tree/master/0189-rotate-array) |
+| [2965-find-missing-and-repeated-values](https://github.com/naveli0209/Leetcode_DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -30,4 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/naveli0209/Leetcode_DSA/tree/master/0075-sort-colors) |
+## Hash Table
+|  |
+| ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/naveli0209/Leetcode_DSA/tree/master/2965-find-missing-and-repeated-values) |
+## Matrix
+|  |
+| ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/naveli0209/Leetcode_DSA/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
